@@ -1,145 +1,236 @@
-<!-- 🔥 Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Raj%20Singh&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</p>
+<!-- HEADER -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Raj Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Java + Spring Boot | DSA Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=RAJ%20SINGH&fontSize=70&fontAlignY=55&animation=twinkling&fontColor=00f2fe&stroke=00f2fe&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20DSA&descAlignY=75&descSize=18&descAlign=50"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Spring+Boot+%7C+React;410%2B+LeetCode+Problems;System+Design+Learner&center=true&width=500&height=45&color=00F260">
-</p>
+</div>
 
----
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&multiline=false&width=600&height=50&lines=🚀+Full+Stack+Developer;☕+Java+%2B+Spring+Boot+Engineer;⚡+410%2B+LeetCode+Problems+Solved;🧠+System+Design+%7C+DSA+Expert;🌩️+Cloud+%7C+AWS+%7C+REST+APIs" alt="Typing SVG" />
+</div>
 
-## 🚀 About Me
+<br/>
 
-- 💻 Building **Scalable Full Stack Apps** — Job Portals, AI Systems & more
-- 🎓 B.Tech IT @ **ABES Engineering College** (2023–2027) | CGPA: **8.0**
-- 🌱 Currently deepening **System Design + Backend Scaling**
-- 🧠 Solved **410+ LeetCode Problems** (Arrays, DP, Graphs, Trees & more)
-- ⚡ Strong in **DSA, REST APIs, JWT Auth, Spring Security**
-- 🌐 Portfolio: [rajs1nghportfolio.netlify.app](https://rajs1nghportfolio.netlify.app)
-- 📫 Email: **rm2739159@gmail.com**
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Rajsingh6389&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Rajsingh6389?style=for-the-badge&color=00f2fe&labelColor=0d1117&label=FOLLOWERS)
+[![LeetCode](https://img.shields.io/badge/LeetCode-410%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajsingh63)
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,spring,mysql,aws,git&theme=dark" />
-</p>
-
-**Programming & Frontend:** Java · Python · JavaScript · React · HTML5 · CSS3 · C++ (basic)  
-**Backend & APIs:** Spring Boot · Spring MVC · Spring Security · Hibernate/JPA · REST APIs · JWT  
-**Data Science & CV:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · OpenCV  
-**Cloud & Tools:** AWS (EC2, S3, IAM, VPC) · Git · GitHub · IntelliJ IDEA · VS Code · Postman · Maven  
-**Core CS:** OOP · DSA · MVC Architecture · System Design Fundamentals  
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ABOUT ME -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajsingh6389&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsingh6389&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
----
+```java
+public class RajSingh {
 
-## 🔥 GitHub Streak
+    String name        = "Raj Singh";
+    String location    = "Ghaziabad, Uttar Pradesh 🇮🇳";
+    String college     = "ABES Engineering College (B.Tech IT, 2023–2027)";
+    double cgpa        = 8.0;
+    String[] roles     = {"Full Stack Developer", "Backend Engineer", "DSA Enthusiast"};
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajsingh6389&theme=tokyonight&hide_border=true"/>
-</p>
+    String[] currentlyLearning = {"System Design", "Backend Scaling", "Cloud Architecture"};
+    String   email     = "rm2739159@gmail.com";
+    String   portfolio = "rajs1nghportfolio.netlify.app";
+    int      leetcode  = 410; // problems solved and counting...
 
----
+    String lifePhilosophy() {
+        return "Code. Learn. Build. Repeat. 🚀";
+    }
+}
+```
 
-## 📈 Contribution Graph
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajsingh6389&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajsingh63?theme=dark&ext=heatmap"/>
-</p>
-
-> ✅ **410+ problems solved** across Arrays, Strings, Trees, Graphs, Recursion, DP & Greedy
+<br/>
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rajsingh6389/Rajsingh6389/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🧠 Data Science & CV
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🛠️ Tools & IDEs
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajsingh6389&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsingh6389&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajsingh6389&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f2fe&ring=00f2fe&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajsingh6389&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ff6b6b&area=true&area_color=00f2fe"/>
+</div>
+
+<br/>
+
+---
+
+## 🧠 LeetCode Performance
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/rajsingh63?theme=dark&font=Nunito&ext=heatmap&border=0&radius=20" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Total |
+|:---:|:---:|:---:|:---:|
+| ✅ Solved | ✅ Solved | ✅ Solved | **410+** |
+
+> *Arrays · Strings · Trees · Graphs · Recursion · Dynamic Programming · Greedy*
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rajsingh6389/Rajsingh6389/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Job Portal Web Application](https://github.com/Rajsingh6389)
-> Full-stack job portal with role-based access for recruiters and job seekers
+<div align="center">
 
-- 🔐 **JWT + Spring Security** Authentication & Authorization
-- 👥 **Role-based dashboards** for Recruiters & Job Seekers
-- ⚡ **Scalable RESTful APIs** for job posting, applications & profile management
-- 🛡️ Optimized backend workflows for high performance & data consistency
+### 🔐 Job Portal Web Application
 
-**Tech:** `Java` `Spring Boot` `Spring Security` `JWT` `REST API` `MySQL`
+</div>
+
+> *A production-grade full-stack job portal with enterprise-level security*
+
+| Feature | Details |
+|---|---|
+| 🔐 Auth | JWT + Spring Security (Role-based) |
+| 👥 Roles | Recruiter Dashboard & Job Seeker Dashboard |
+| ⚡ APIs | Scalable RESTful APIs for jobs, profiles & applications |
+| 🛡️ Security | Secure access control, data consistency & high performance |
+| 🛠️ Stack | `Java` `Spring Boot` `Spring Security` `JWT` `MySQL` `REST API` |
+
+[![Job Portal](https://img.shields.io/badge/View_Repo-Job_Portal-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe)](https://github.com/Rajsingh6389)
 
 ---
 
-### 🔹 [Face Recognition Attendance System](https://github.com/Rajsingh6389)
-> Real-time automated attendance using computer vision
+<div align="center">
 
-- 🧠 **OpenCV + Haar Cascade** classifiers for real-time face detection
-- 🗄️ **MySQL** persistent storage for attendance records
-- 🖥️ **Tkinter GUI** for registration, tracking & report management
-- ✅ Eliminated manual attendance & reduced human error
+### 🤖 Face Recognition Attendance System
 
-**Tech:** `Python` `OpenCV` `MySQL` `Tkinter` `NumPy`
+</div>
+
+> *AI-powered real-time attendance system using computer vision*
+
+| Feature | Details |
+|---|---|
+| 🧠 AI | OpenCV + Haar Cascade real-time face detection |
+| 🗄️ Storage | Persistent MySQL database for attendance records |
+| 🖥️ GUI | Intuitive Tkinter interface for registration & reports |
+| ✅ Impact | Eliminated manual attendance & reduced human error |
+| 🛠️ Stack | `Python` `OpenCV` `MySQL` `Tkinter` `NumPy` |
+
+[![Face Recognition](https://img.shields.io/badge/View_Repo-Face_Recognition-0d1117?style=for-the-badge&logo=github&logoColor=00f2fe)](https://github.com/Rajsingh6389)
+
+<br/>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/raj-singh-8b7457333">
-    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Singh-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://rajs1nghportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="mailto:rm2739159@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rm2739159-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://leetcode.com/rajsingh63">
-    <img src="https://img.shields.io/badge/LeetCode-410%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-singh-8b7457333)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajs1nghportfolio.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rm2739159@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajsingh63)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajsingh6389)
+
+</div>
+
+<br/>
 
 ---
 
-## ⚡ Fun Zone
+## ⚡ Random Dev Quote
 
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  🚀 <b>"Code. Learn. Build. Repeat."</b>
-</p>
+<div align="center">
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
-</p>
+### 🚀 *"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
+
+</div>
