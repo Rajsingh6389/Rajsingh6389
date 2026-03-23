@@ -12,7 +12,7 @@
 - 💻 Building **Full Stack Apps (React + Spring Boot + MySQL)**
 - 🌱 Learning **DSA, System Design & Backend Scaling**
 - 🤝 Open to collaboration on **real-world projects**
-- ⚡ Solved **410+ LeetCode problems**
+- ⚡ Solved **510+ LeetCode problems**
 - 📫 Reach me at: **rm2739159@gmail.com**
 
 ---
