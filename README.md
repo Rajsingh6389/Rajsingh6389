@@ -51,7 +51,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajsingh63&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rajsingh6389&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsingh63&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajsingh6389&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
