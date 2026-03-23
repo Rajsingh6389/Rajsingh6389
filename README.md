@@ -42,7 +42,7 @@ public class RajSingh {
     String[] currentlyLearning = {"System Design", "Backend Scaling", "Cloud Architecture"};
     String   email     = "rm2739159@gmail.com";
     String   portfolio = "rajs1nghportfolio.netlify.app";
-    int      leetcode  = 410; // problems solved and counting...
+    int      leetcode  = 510; // problems solved and counting...
 
     String lifePhilosophy() {
         return "Code. Learn. Build. Repeat. 🚀";
