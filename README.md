@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+Engineer;410%2B+LeetCode+Problems+Solved;System+Design+%7C+DSA+Expert;Cloud+%7C+AWS+%7C+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+Engineer;510%2B+LeetCode+Problems+Solved;System+Design+%7C+DSA+Expert;Cloud+%7C+AWS+%7C+REST+APIs" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +17,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajsingh6389&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Rajsingh6389?style=for-the-badge&color=00f2fe&labelColor=0d1117&label=FOLLOWERS)
-[![LeetCode](https://img.shields.io/badge/LeetCode-410%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajsingh63)
+[![LeetCode](https://img.shields.io/badge/LeetCode-510%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajsingh63)
 
 </div>
 
