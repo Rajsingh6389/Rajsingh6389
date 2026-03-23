@@ -137,7 +137,7 @@ public class RajSingh {
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Total |
 |:---:|:---:|:---:|:---:|
-| ✅ Solved | ✅ Solved | ✅ Solved | **410+** |
+| ✅ Solved | ✅ Solved | ✅ Solved | **510+** |
 
 > *Arrays · Strings · Trees · Graphs · Recursion · Dynamic Programming · Greedy*
 
