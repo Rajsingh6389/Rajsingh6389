@@ -77,14 +77,14 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajsingh63/rajsingh63/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rajsingh6389/Rajsingh6389/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Job Portal Web Application](https://github.com/rajsingh63)
+### 🔹 [Job Portal Web Application](https://github.com/Rajsingh6389)
 > Full-stack job portal with role-based access for recruiters and job seekers
 
 - 🔐 **JWT + Spring Security** Authentication & Authorization
@@ -96,7 +96,7 @@
 
 ---
 
-### 🔹 [Face Recognition Attendance System](https://github.com/rajsingh63)
+### 🔹 [Face Recognition Attendance System](https://github.com/Rajsingh6389)
 > Real-time automated attendance using computer vision
 
 - 🧠 **OpenCV + Haar Cascade** classifiers for real-time face detection
