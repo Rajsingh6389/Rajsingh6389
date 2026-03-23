@@ -17,7 +17,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajsingh6389&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Rajsingh6389?style=for-the-badge&color=00f2fe&labelColor=0d1117&label=FOLLOWERS)
-[![LeetCode](https://img.shields.io/badge/LeetCode-410%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajsingh63)
+[![LeetCode](https://img.shields.io/badge/LeetCode-510%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajsingh63)
 
 </div>
 
