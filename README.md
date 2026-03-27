@@ -150,7 +150,7 @@ public class RajSingh {
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rajsingh6389/Rajsingh6389/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rajsingh6389/Rajsingh6389/output/github-snake.svg" />
 </div>
 
 <br/>
