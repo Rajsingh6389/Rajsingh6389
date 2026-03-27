@@ -2,11 +2,14 @@ name: 🐍 Generate Snake Animation (Advanced)
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-      - main   # auto update on push
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -17,31 +20,33 @@ jobs:
       # 📥 Checkout repo
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-      # ⚡ Cache GitHub contribution data (faster runs)
+      # ⚡ Cache (fixed)
       - name: Cache Contributions
         uses: actions/cache@v4
         with:
           path: ~/.cache
-          key: snake-cache-${{ github.run_id }}
-          restore-keys: snake-cache-
+          key: snake-cache
 
-      # 🐍 Generate Snake Animation (multiple themes)
+      # 🐍 Generate Snake SVGs
       - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-blue.svg?color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-            dist/github-snake-rainbow.svg?palette=github
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-blue.svg?color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake-rainbow.svg?palette=github
 
-      # 🧹 Clean old files before deploy
+      # 🧹 Clean folder properly
       - name: Clean dist folder
-        run: rm -rf dist/*.tmp || true
+        run: |
+          rm -rf dist/*.tmp || true
 
-      # 🚀 Deploy to GitHub Pages (output branch)
+      # 🚀 Deploy
       - name: Deploy Snake Animation
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -50,7 +55,7 @@ jobs:
           publish_branch: output
           commit_message: "🐍 Update snake animation"
 
-      # 📊 Add summary (visible in Actions UI)
+      # 📊 Summary
       - name: Job Summary
         run: |
           echo "## 🐍 Snake Animation Generated!" >> $GITHUB_STEP_SUMMARY
