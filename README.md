@@ -39,7 +39,7 @@ public class RajSingh {
     double cgpa        = 8.0;
     String[] roles     = {"Full Stack Developer", "Backend Engineer", "DSA Enthusiast"};
 
-    String[] currentlyLearning = {"System Design", "Backend Scaling", "Cloud Architecture"};
+    String[] currentlyLearning = {"Data Analytics", "Backend Scaling", "Cloud Architecture"};
     String   email     = "rm2739159@gmail.com";
     String   portfolio = "rajs1nghportfolio.netlify.app";
     int      leetcode  = 510; // problems solved and counting...
