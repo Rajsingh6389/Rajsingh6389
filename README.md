@@ -11,6 +11,11 @@
   <a href="mailto:rm2739159@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <a href="https://raj-singh-portfolio.vercel.app"><img src="https://img.shields.io/badge/🎮_View_3D_Portfolio-2E9EF7?style=for-the-badge"></a>
+</p>
+<p align="center"><i>↳ interactive Three.js particle-avatar site — replace the link above with your deployed URL</i></p>
+
 ---
 
 ### 🚀 About Me
